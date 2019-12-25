@@ -38,6 +38,7 @@ git 分支控制
 
 git push origin 分支名字
 
-3. 分支切换 git branch
+3. 分支切换 
+git branch 查看分支
  切换分支之前要提交当前的修改内容，否则不能提交
-git 
+git checkout 分支名字
